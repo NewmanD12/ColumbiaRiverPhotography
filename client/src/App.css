@@ -1,0 +1,31 @@
+*{
+  margin: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  /* outline: solid black; */
+}
+
+body{
+  width: 970px;
+  margin: 0px auto;
+  font-family: sans-serif;
+  background-color: lightgray;
+  text-align: center; 
+  background-image: url('./images/sean-benesh-zROafZ6GOy4-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+a {
+  text-decoration: none;
+  align-content: space-evenly;
+}
+a:visited {
+  color: black;
+}
+
+.body-wrapper{
+  background-color: white;
+  opacity: .8;
+}
